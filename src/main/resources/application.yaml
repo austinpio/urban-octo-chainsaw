@@ -1,0 +1,3 @@
+camunda.bpm.admin-user:
+  id: adminUser1
+  password: Admin@123_1
